@@ -19,3 +19,4 @@
 [twitter]: https://twitter.com/ChidozieOkoye
 [instagram]: https://www.instagram.com/ChidozieOkoye
 [linkedin]: https://linkedin.com/in/ChidozieOkoye
+[youtube]: https://youtube.com/@easytechhub1
