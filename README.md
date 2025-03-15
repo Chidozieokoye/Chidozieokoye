@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Chidozieokoye/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Active Directory Infrastructural Deployment in Azure](https://github.com/Chidozieokoye/deploy-ad)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Chidozieokoye/configure-ad)
+  - [Active Directory Installation & Configuration in Minutes](https://github.com/Chidozieokoye/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Chidozieokoye/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
